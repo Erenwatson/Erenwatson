@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ireneo M. Ferrero</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A frontend developer specializing in modern web technologies from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erenwatson&label=Profile%20views&color=0e75b6&style=flat" alt="erenwatson" /> </p>
 
-- 🔭 I’m currently working on **Lmcenter**
+- 🔭 I’m currently working on [Lmcenter](https://lmcenter.net/)
 
 - 🌱 I’m currently learning **NextJS, NestJS**
 
